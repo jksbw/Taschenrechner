@@ -19,5 +19,4 @@ public class TestCalculator {
     public void testSummeZweiNull(){
         assertTrue(test.addition(3, -3) == 0);
     }
-
 }
